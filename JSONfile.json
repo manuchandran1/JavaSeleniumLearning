@@ -1,0 +1,44 @@
+{
+	"version": "10.2.2.48",
+	"locations": [{
+		"id": "10101102",
+		"name": "Wynyard Station, Sydney",
+		"disassembledName": "Wynyard Station",
+		"coord": [
+			3755258,
+			4889121
+		],
+		"type": "stop",
+		"matchQuality": 1000,
+		"isBest": true,
+		"modes": [
+			1,
+			5,
+			11
+		],
+		"parent": {
+			"id": "95301001|1",
+			"name": "Sydney",
+			"type": "locality"
+		},
+		"assignedStops": [{
+			"id": "10101102",
+			"name": "Wynyard Station",
+			"type": "stop",
+			"coord": [
+				3755258,
+				4889121
+			],
+			"parent": {
+				"name": "Sydney",
+				"type": "locality"
+			},
+			"modes": [
+				1,
+				5,
+				11
+			],
+			"connectingMode": 100
+		}]
+	}]
+}

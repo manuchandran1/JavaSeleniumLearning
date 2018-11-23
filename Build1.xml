@@ -1,0 +1,8 @@
+<project name="Selenium_Framework" default = "create" basedir = ".">
+
+	<target name="create">
+		<mkdir dir=""/>
+		
+	</target>
+	
+</project>
